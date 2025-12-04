@@ -8,7 +8,6 @@ Built with Django (DRF) for the backend and React (Vite) for the frontend.
 
 This project follows a Monorepo structure:
 
-
 class_management_system/
 ├── backend/            # Django REST API
 │   ├── config/         # Project settings
